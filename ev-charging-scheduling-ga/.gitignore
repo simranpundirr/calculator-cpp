@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+.localized
+
+# Compiled files
+a.out
+*.o
+
+# Editor / misc
+*.log
+
+# Ignore everything outside this project
+../*
+
+
